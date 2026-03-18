@@ -81,13 +81,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://repo.eclipse.org/content/repositories/linuxtools/org/eclipse/linuxtools/flatpak/flatpak-dev-shim/1.0.1-SNAPSHOT/flatpak-dev-shim-1.0.1-20260107.212507-20.jar",
-                    "sha256": "85a006b5320e979254bb2e00670e3e9b10b5e7eb5cb8224ad500d9c9d74589ab",
+                    "url": "https://repo.eclipse.org/content/repositories/linuxtools/org/eclipse/linuxtools/flatpak/flatpak-dev-shim/1.0.1-SNAPSHOT/flatpak-dev-shim-1.0.1-20260204.132446-21.jar",
+                    "sha256": "b0003d64f51ae34693b59dc20c50833357e4f4abf350c1beab917fffe995bb79",
                     "dest-filename": "flatpak-dev-shim-1.0.1-SNAPSHOT.jar"
                 },
                 {
                     "type": "file",
-                    "url": "https://repo.eclipse.org/content/repositories/linuxtools/org/eclipse/linuxtools/flatpak/flatpak-dev-shim/1.0.1-SNAPSHOT/flatpak-dev-shim-1.0.1-20260107.212507-20.so",
+                    "url": "https://repo.eclipse.org/content/repositories/linuxtools/org/eclipse/linuxtools/flatpak/flatpak-dev-shim/1.0.1-SNAPSHOT/flatpak-dev-shim-1.0.1-20260204.132446-21.so",
                     "sha256": "6460250a44558e8ccb475705a40273eb0065e8cf746839ff5f502fc184d2c3df",
                     "dest-filename": "flatpak-dev-shim-1.0.1-SNAPSHOT.so"
                 },
